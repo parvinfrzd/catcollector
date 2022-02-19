@@ -144,7 +144,7 @@ STATIC_URL = '/static/'
 import django_heroku
 django_heroku.settings(locals())
 
-WSGI_APPLICATION = 'parvin-catcollector.wsgi.application'
+WSGI_APPLICATION = 'catcollector.wsgi.application'
 
 
 

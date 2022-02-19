@@ -1,1 +1,1 @@
-web: gunicorn parvin-catcollector.wsgi
+web: gunicorn catcollector.wsgi
